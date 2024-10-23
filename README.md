@@ -8,8 +8,6 @@
 
 <p>I’m looking to collaborate on any projects that envolve this languages: Python, R, C#, C++, HTML, CSS, JavaScript.</p>
 
-<p>Test</p>
-
 
 
 <!---
